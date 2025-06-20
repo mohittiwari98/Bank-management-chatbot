@@ -1,4 +1,5 @@
 const API_KEY = "YOUR API";
+//you can use gemini api
 const API_URL = "USE YOUR API URL";
 
 let conversationHistory = [];
